@@ -68,7 +68,7 @@ def tiktok_dl(client, message):
       "link": link
     }
     headers = {
-      'x-rapidapi-host': "tiktok-info.p.rapidapi.com",
+      'x-rapidapi-host': "https://tiktok-info.p.rapidapi.com",
       'x-rapidapi-key': "84c72b4495mshc0597feb72bca72p157959jsn0fc18327ee3b"
     }
     
