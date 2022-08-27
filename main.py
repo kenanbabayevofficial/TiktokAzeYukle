@@ -68,7 +68,7 @@ def tiktok_dl(client, message):
       "link": link
     }
     headers = {
-      'x-rapidapi-host': "https://tiktok-info.p.rapidapi.com",
+      'x-rapidapi-host': "tiktok-info.p.rapidapi.com",
       'x-rapidapi-key': "84c72b4495mshc0597feb72bca72p157959jsn0fc18327ee3b"
     }
     
@@ -100,8 +100,8 @@ def tiktok_dl(client, message):
                 if show == 1:
                     try:
                         a.edit(f'__**URL :**__ __{message.text}__\n'
-                               f'__**Total Size :**__ __{total_size} MB__\n'
-                               f'__**Downloaded :**__ __{percent}%__\n',
+                               f'__**Həcm :**__ __{total_size} MB__\n'
+                               f'__**Yüklənmə :**__ __{percent}%__\n',
                                disable_web_preview=False)
                     except:
                         pass
