@@ -27,7 +27,7 @@ A Telegram bot to download TikTok videos without any watermark.
 <p><a href="https://cloud.okteto.com/#/deploy?repository=https://github.com/TerminalWarlord/TikTok-Downloader-Bot/"><img src="https://okteto.com/develop-okteto.svg" alt="Deploy to Okteto"/></a></p>
 
 
-
+ApkAze.Com
 
 Youtube: [Deployment Tutorial](https://youtu.be/LOK3lfJ9ous)<br>
 Demo: [JayBee TikTok Downloader](https://t.me/JayBeeTikTokBot)
@@ -42,18 +42,5 @@ Demo: [JayBee TikTok Downloader](https://t.me/JayBeeTikTokBot)
 
 
 
-
-## Credits
-- [TerminalWarlord](https://github.com/TerminalWarlord)
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/TerminalWarlord/Tiktok-Downloader-Bot.svg?style=social&label=Star)](https://github.com/TerminalWarlord/) ![GitHub followers](https://img.shields.io/github/followers/TerminalWarlord.svg?style=social&label=Follow)
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/JayBeeBots)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TerminalWarlord/TikTok-Downloader-Bot)
-
----
-### Star the Repo if you find it useful :heart:
-### © [TerminalWarlord](https://t.me/JayBeeBots)
-#### All Rights Reserved
+https://apkaze.com
 ---
